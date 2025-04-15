@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")()
+
 let
 function saudacao(){
     nome = prompt("Qual o seu nome?");
